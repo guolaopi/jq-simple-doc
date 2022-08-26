@@ -12,7 +12,6 @@ const DOCS = [
             },
         ],
     },
-
     {
         title: "Second step",
         content: `

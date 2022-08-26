@@ -32,3 +32,5 @@ const DOCS = [
 ```
 
 And picture use relative path in ./imgs
+
+Demo:[jq-simple-doc](https://guolaopi.github.io/jq-simple-doc)
